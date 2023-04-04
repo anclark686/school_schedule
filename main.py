@@ -1,4 +1,4 @@
-
+from school_schedule.student import Student
 
 #first instance
 quinn = Student(
